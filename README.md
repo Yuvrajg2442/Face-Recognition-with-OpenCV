@@ -10,6 +10,10 @@ A Python-based face recognition system that compares and verifies faces in image
 - **Visual Feedback**: Displays results with bounding boxes and similarity scores
 - **Real-time Display**: Shows processed images with OpenCV
 
+## 📸 Example Outputs
+
+### Image Reading Example:
+<img src="output.png" alt="Image Reading" width="300"/>
 ## Prerequisites
 
 Before running this project, ensure you have Python installed on your system (Python 3.6 or higher recommended).
