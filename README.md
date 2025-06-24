@@ -12,8 +12,11 @@ A Python-based face recognition system that compares and verifies faces in image
 
 ## 📸 Example Outputs
 
-### Example:
+### Example 1:
 <img src="output.png" alt="Result" width="300"/>
+### Example 2:
+<img src="output2.png" alt="Result" width="300"/>
+
 ## Prerequisites
 
 Before running this project, ensure you have Python installed on your system (Python 3.6 or higher recommended).
